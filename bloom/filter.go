@@ -9,9 +9,9 @@ import (
 	"math"
 	"sync"
 
-	"github.com/btcsuite/btcd/txscript"
-	"github.com/btcsuite/btcutil"
-	"github.com/btcsuite/btcwire"
+	"github.com/PointCoin/btcd/txscript"
+	"github.com/PointCoin/btcutil"
+	"github.com/PointCoin/btcwire"
 )
 
 // ln2Squared is simply the square of the natural log of 2.
