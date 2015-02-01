@@ -9,7 +9,7 @@ import (
 	"math"
 	"sync"
 
-	"github.com/PointCoin/btcd/txscript"
+	"github.com/PointCoin/pointcoind/txscript"
 	"github.com/PointCoin/btcutil"
 	"github.com/PointCoin/btcwire"
 )
